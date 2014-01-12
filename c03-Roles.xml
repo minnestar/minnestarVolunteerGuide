@@ -12,19 +12,75 @@
       xmlns:db="http://docbook.org/ns/docbook">
       
       <title>Roles</title>
-      <para>This chapter describes the roles.</para>
+
+      <para>
+Great events are possible because great people are involved. Here you will find a listing and descrption for all of
+the roles.
+      </para>
+      <para>
+Roles that are needed for longer streaches of time are broken up into multiple shifts. Please pay attention to the
+schedule and where your shift is on it. If you are having fun and want to keep working you are welcome to do that.
+</para>
+
+      <section>
+            <title>A/V Guide</title>
+            <para>
+Applies to: minnedemo
+            </para>
+            <para>
+Part of providing a great demo comes from the confidence in understaning the A/V setup. The A/V Guide is there to
+help the presenters understand the A/V setup and to help if something seems to be going wrong. Usually this role
+is broken up into multiple shifts to cover the whole event. Before the event the A/V Guide works with the
+presenters to make sure that they understand how to hook into the input to the projector and knowing where the
+microphones are.
+            </para>
+            <para>
+It is important that if you have this role that you show up during the setup period to understand the equipment.
+The first shift will work with the presenters and first presentations. The next shifts will continue on supporing
+the presenters.
+            </para>
+            <section>
+                  <title>Requirements</title>
+                  <para>
+On paper this role seems super technical. To be successful you need to understand how to connect a laptop to
+a projector and share the desktop.
+                  </para>
+            </section>
+            <section>
+                  <title>Start of Shift</title>
+                  <para>
+Check-in with the Volunteer Coordinator who will get you set up.
+                  </para>
+            </section>
+            <section>
+                  <title>Frequently Asked Questions</title>
+                  <qandaset defaultlabel='qanda'>
+                        <qandaentry>
+                              <question>
+                                    <para>
+On what operating systems should I know how to share the desktop?
+                                    </para>
+                              </question>
+                              <answer>
+                                    <para>
+OS X and Windows are needed. Other systems come up but the users tend to trend more tech savvy and will be able to
+get the connection established with minimal assistance.
+                                    </para>
+                              </answer>
+                        </qandaentry>
+                  </qandaset>
+            </section>
+      </section>
 
       <section>
       	<title>Cleanup</title>
+            <para>
+Applies to: minnebar | minnedemo
+            </para>
       	<para>
-The Cleanup role is there to help the core staff with putting the venue back to the original state.
+The Cleanup role is there to help the core organizers with putting the venue back to the original state. This could
+include putting away equipment and removing sinage.
       	</para>
-      	<section>
-      		<title>Before the Event</title>
-      		<para>
-There is no preparation that you should need to do.
-      		</para>
-      	</section>
       	<section>
       		<title>Start of Shift</title>
       		<para>
@@ -34,40 +90,148 @@ Please show up on time, check in with the volunteer coordinator, and be ready to
       	<section>
       		<title>End of Shift</title>
       		<para>
-When the tasks are done you are welcome to check out the sessions.
+When the tasks assigned to you are done you are welcome to check out the sessions.
                   </para>
       	</section>
       </section>
 
       <section>
-      	<title>Registration</title>
-      	<para>
-Registration checks people in, gets nametags, and gives out shirts.
-      	</para>
-      </section>
-
-      <section>
-      	<title>Setup</title>
-      	<para>
-Setup arrives before the event and readies the venue for the event which could include setting up tables, the presentation area, and sinage.
-      	</para>
-      </section>
-
-      <section>
-            <title>Template</title>
+            <title>Pop Czar</title>
             <para>
-This is the template description it is useful for cutting and pasting.
+Applies to: minnebar
             </para>
+            <para>
+The Pop Czars make sure that the tubs of ice are stocked with pop. They will need to be replenished from time to
+time. Check on the tubs at the start of lunch, after lunch, and once in the afternoon. 
+            </para>
+            <section>
+                  <title>Start of Shift</title>
+                  <para>
+Check in with the Volunteer Coordinator who will get you pointed in the right direction.
+                  </para>
+            </section>
+      </section>
+
+      <section>
+            <title>Presenter Host</title>
+            <para>
+Applies to: minnedemo
+            </para>
+            <para>
+The Presenter Host is there to greet the presenters at the front door, bring them into the presentation space and
+introduce them to the A/V Guide. If there are any questions the Presenter host can either try to answer them or
+pass the question off to one of the organizers. 
+            </para>
+            <section>
+                  <title>Start of Shift</title>
+                  <para>
+Check in with the Volunteer Coordinator who will introduce you to the A/V guide and give you a brief tour for the space.
+                  </para>
+            </section>
+      </section>
+
+      <section>
+      	<title>Registration</title>
+            <para>
+Applies to: minnebar | minnedemo
+            </para>
+      	<para>
+Registration checks people in, gets nametags, gives out shirts, and food/beverage tickets.
+      	</para>
+            <section>
+                  <title>Requirements</title>
+                  <para>
+For our events we use a smart device application for check-in. You will need to bring an Android or iOS device that is able to
+run the Eventbrite door application and connect to the internet via a mobile or WiFi connection. If you do not have a suitible
+device contact the Volunteer Coordinator and we will try to locate a device that can be used.
+                  </para>
+            </section>
             <section>
                   <title>Before the Event</title>
                   <para>
-What should be done to prepare before the event.
+Document the process for going out and pulling down the Eventbrite application to facilitate check-in.
                   </para>
             </section>
             <section>
                   <title>Start of Shift</title>
                   <para>
 What should be done at the start of the shift.
+                  </para>
+            </section>
+      </section>
+
+      <section>
+      	<title>Setup: General</title>
+            <para>
+Applies to: minnebar | minnedemo
+            </para>
+      	<para>
+Setup arrives before the event and readies the venue for the event which could include setting up tables, the presentation area, and sinage.
+      	</para>
+            <section>
+                  <title>Before the Event</title>
+                  <para>
+There is no preperation that needs to happen for the Setup role.
+                  </para>
+            </section>
+            <section>
+                  <title>Start of Shift</title>
+                  <para>
+What should be done at the start of the shift.
+                  </para>
+            </section>
+      </section>
+
+      <section>
+            <title>Setup: Video</title>
+            <para>
+Applies to: minnebar
+            </para>
+            <para>
+Help the videographers bring in equipment and set it up in the many rooms.
+            </para>
+            <section>
+                  <title>Start of Shift</title>
+                  <para>
+Check-in with the Volunteer Coordinator who will introduce you to the videographers.
+                  </para>
+            </section>
+      </section>
+
+      <section>
+            <title>Snack Master</title>
+            <para>
+Applies to: minnebar
+            </para>
+            <para>
+The Snack Master reigns suppreme over placing snacks out before the Happy Hour. 
+            </para>
+            <section>
+                  <title>Start of Shift</title>
+                  <para>
+Check in with the Volunteer Coordinator who will get you pointed in the right direction.
+                  </para>
+            </section>
+      </section>
+
+      <section>
+            <title>Video</title>
+            <para>
+Applies to: minnebar
+            </para>
+            <para>
+Each person a a video shift is assigned a few of the rooms and is expected to make sure that there is enough room to
+record and that the camera is pointed at the person who is speaking. If there is a problem that you are able to not
+fix you should bring it to the attention of the minne* organizers.
+            </para>
+            <para>
+The work for the Video shift is done before each session of a shift. After the checks have been done you will be able
+to attend sessions.
+            </para>
+            <section>
+                  <title>Start of Shift</title>
+                  <para>
+Check-in with the Volunteer Coordinator who will assign you a set of rooms for your shift.
                   </para>
             </section>
             <section>
@@ -79,11 +243,6 @@ A reasonable answer to the question.
                         </para>
                   </section>
             </section>
-            <section>
-                  <title>End of Shift</title>
-                  <para>
-How to know when your shift is over and what you should do next.
-                  </para>
-            </section>
       </section>
+
 </chapter>
