@@ -1,0 +1,46 @@
+
+      <section>
+            <title>Template</title>
+            <para>
+Applies to: List the events divided by a |
+            </para>
+            <para>
+This is the template description it is useful for cutting and pasting.
+            </para>
+            <section>
+                  <title>Requirements</title>
+                  <para>
+Document what the requirements to perform the role might be.
+                  </para>
+            </section>
+            <section>
+                  <title>Before the Event</title>
+                  <para>
+What should be done to prepare before the event.
+                  </para>
+            </section>
+            <section>
+                  <title>Start of Shift</title>
+                  <para>
+What should be done at the start of the shift.
+                  </para>
+            </section>
+            <section>
+                  <title>End of Shift</title>
+                  <para>
+How to know when your shift is over and what you should do next.
+                  </para>
+            </section>
+            <section>
+                  <title>Frequently Asked Questions</title>
+                  <section>
+                        <title>A question</title>
+                        <qandaset defaultlabel='qanda'>
+                              <qandaentry>
+                                    <question><para>What?</para></question>
+                                    <answer><para>Because</para></answer>
+                              </qandaentry>
+                        </qandaset>
+                  </section>
+            </section>
+      </section>
