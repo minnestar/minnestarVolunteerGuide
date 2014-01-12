@@ -21,4 +21,6 @@ Make sure that your ENV variable for SHORT_ATTENTION_SPAN_DOCBOOK_PATH is set to
 Go into the cloned directory.
 
 To generate a pdf file:
-    rake book.pdf
+```
+rake book.pdf
+```
