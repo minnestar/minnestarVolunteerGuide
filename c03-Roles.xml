@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter [
+<!ENTITY % allent SYSTEM "w3centities-f.ent">
+%allent;
+]>
+<chapter version="5.0" xmlns="http://docbook.org/ns/docbook"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xi="http://www.w3.org/2001/XInclude"
+      xmlns:svg="http://www.w3.org/2000/svg"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:html="http://www.w3.org/1999/xhtml"
+      xmlns:db="http://docbook.org/ns/docbook">
+      
+      <title>Roles</title>
+      <para>This chapter describes the roles.</para>
+
+      <section>
+      	<title>Cleanup</title>
+      	<para>
+The Cleanup role is there to help the core staff with putting the venue back to the original state.
+      	</para>
+      	<section>
+      		<title>Before the Event</title>
+      		<para>
+There is no preparation that you should need to do.
+      		</para>
+      	</section>
+      	<section>
+      		<title>Start of Shift</title>
+      		<para>
+Please show up on time, check in with the volunteer coordinator, and be ready to help out!
+      		</para>
+      	</section>
+      	<section>
+      		<title>End of Shift</title>
+      		<para>
+When the tasks are done you are welcome to check out the sessions.
+                  </para>
+      	</section>
+      </section>
+
+      <section>
+      	<title>Registration</title>
+      	<para>
+Registration checks people in, gets nametags, and gives out shirts.
+      	</para>
+      </section>
+
+      <section>
+      	<title>Setup</title>
+      	<para>
+Setup arrives before the event and readies the venue for the event which could include setting up tables, the presentation area, and sinage.
+      	</para>
+      </section>
+
+      <section>
+            <title>Template</title>
+            <para>
+This is the template description it is useful for cutting and pasting.
+            </para>
+            <section>
+                  <title>Before the Event</title>
+                  <para>
+What should be done to prepare before the event.
+                  </para>
+            </section>
+            <section>
+                  <title>Start of Shift</title>
+                  <para>
+What should be done at the start of the shift.
+                  </para>
+            </section>
+            <section>
+                  <title>Frequently Asked Questions</title>
+                  <section>
+                        <title>A question</title>
+                        <para>
+A reasonable answer to the question.
+                        </para>
+                  </section>
+            </section>
+            <section>
+                  <title>End of Shift</title>
+                  <para>
+How to know when your shift is over and what you should do next.
+                  </para>
+            </section>
+      </section>
+</chapter>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE book [
+<!ENTITY % allent SYSTEM "w3centities-f.ent">
+%allent;
+]>
+<book xmlns="http://docbook.org/ns/docbook" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:svg="http://www.w3.org/2000/svg" 
+    xmlns:mml="http://www.w3.org/1998/Math/MathML" 
+    xmlns:html="http://www.w3.org/1999/xhtml" 
+    xmlns:db="http://docbook.org/ns/docbook" version="5.0">
+  <info>
+    <title>Minne* Volunteer Handbook</title>
+    <subtitle>2014</subtitle>
+    <copyright>
+      <year>2014</year>
+      <holder>Richard Isaacson</holder>
+    </copyright>
+
+    <author>
+      <personname>
+        <firstname>Richard</firstname>
+        <surname>Isaacson</surname>
+      </personname>
+      <affiliation>
+        <address>
+          <email>richard.c.isaacson@gmail.com</email>
+        </address>
+      </affiliation>
+    </author>
+    
+    <edition>First Edition</edition>
+    <legalnotice>
+      <para>Many of the designations used by manufacturers and sellers to distinguish their 
+      products are claimed as trademarks. Where those designations appear in this book, and the
+      author was aware of a trademark claim, the designations have 
+      been printed in initial capital letters or in all capitals. </para>
+      <para>
+      Every precaution was taken in the preparation of this manual. However, the author 
+      assumes no responsibility for errors or omissions, or for damages that may result from 
+      the use of information (including program listings) contained herein.</para>
+    </legalnotice>
+    <!-- for ePubs -->
+    <cover>   
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="cover/cover.jpg"/>
+        </imageobject>
+      </mediaobject>
+    </cover>
+  
+  </info>
+  
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="c01-About.xml"/>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="c02-Events.xml"/>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="c03-Roles.xml"/>
+
+  <index/>
+</book>
